@@ -1,6 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/anfederico/Poesy/master/media/Poesy.png" width=250px><p>
 
-
 <p align="center">
 <i>
 Carefully as he pulled up a little kingdom I possess<br>
@@ -13,7 +12,6 @@ Fields to see yes tiny green leaves a whole pot<br>
 His people famous for victory and happiness he had got<br>
 </i>
 </p>
-<br>
 
 ## Code Examples
 
