@@ -111,8 +111,7 @@ poemProcessing(poem)
 printPoem(poem)
 ```
 
-
-#### Some Examples of Text and Style
+#### Some Samples of Text and Style
 ##### Sara Bryant - Stories to Tell to Children
 ```text
 Not been from himself at all were the very midst
