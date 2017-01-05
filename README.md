@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/anfederico/Poesy/master/media/Poesy.png" width=250px><p>
 
 
-<center>
+<p align="center">
 <i>
 Carefully as he pulled up a little kingdom I possess<br>
 As long as he spoke he heard cries of distress<br>
@@ -12,7 +12,7 @@ Marvellous white cloud rising from the village they rolled past<br>
 Fields to see yes tiny green leaves a whole pot<br>
 His people famous for victory and happiness he had got<br>
 </i>
-</center>
+</p>
 <br>
 
 ## Code Examples
