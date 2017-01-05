@@ -71,7 +71,7 @@ with open('example.json', 'w') as outfile:
 
 #### Generating a Poem
 ```python
-from Poesy import textProcessing, poemProcessing
+from Poesy import reverseNgrams, setupModel
 from nltk.corpus import gutenberg
 import json
 
